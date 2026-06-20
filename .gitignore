@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.log
+orders_log.txt
+Thumbs.db
+desktop.ini
