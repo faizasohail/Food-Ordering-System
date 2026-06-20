@@ -1,5 +1,5 @@
 # 🍔 Advanced Network Food Ordering System
-**Network Programming Project | Faiza Sohail (65560) & Areeba Asghar (65532)**
+Network Programming Project
 
 ---
 
