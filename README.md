@@ -133,9 +133,3 @@ CLIENT 3 ──────┘                       ├── FIFO Order Queue
 | Server→Client | `RECOMMENDATIONS:Biryani,Coke,Fries` | AI suggestions |
 | Server→Client | `BROADCAST:message` | Announcement |
 
----
-
-## 👩‍💻 Made By
-- **Faiza Sohail** — 65560
-- **Areeba Asghar** — 65532
-- **Course:** Network Programming
